@@ -4,6 +4,9 @@
 - 🔭 Atualmente eu estou trabalhando com adequação de vida útil, eficiência e cintilamento de drivers para LEDs
 - 🌱 Atualmente estou estundando a linguagem Python
 - 👯 Estou procurando colaborar em projetos de PCIs
+- 📞 Abaixo estão minhas redes e contatos
+
+##
 
 <div>
   <a href="https://www.youtube.com/channel/UCAFnelDKzHDyzSRksobTGcw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
